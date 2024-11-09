@@ -1,0 +1,94 @@
+
+```json
+{
+  "planilha": {
+    "Colunas": [
+      "Atividade",
+      "Responsável",
+      "Data de Início",
+      "Data de Término",
+      "Status"
+    ],
+    "Linhas": [
+      {
+        "Atividade": "Definir requisitos do script",
+        "Responsável": "Equipe de Análise",
+        "Data de Início": "2023-11-01",
+        "Data de Término": "2023-11-02",
+        "Status": "Concluída"
+      },
+      {
+        "Atividade": "Identificar métodos de reconhecimento de fala",
+        "Responsável": "Equipe Técnica",
+        "Data de Início": "2023-11-03",
+        "Data de Término": "2023-11-04",
+        "Status": "Concluída"
+      },
+      {
+        "Atividade": "Elaborar cronograma detalhado",
+        "Responsável": "Gerente de Projeto",
+        "Data de Início": "2023-11-05",
+        "Data de Término": "2023-11-05",
+        "Status": "Concluída"
+      },
+      {
+        "Atividade": "Desenvolver o algoritmo de extração de informações",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2023-11-06",
+        "Data de Término": "2023-11-12",
+        "Status": "Em andamento"
+      },
+      {
+        "Atividade": "Implementar reconhecimento de fala ou análise de texto",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2023-11-13",
+        "Data de Término": "2023-11-17",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Integrar componentes do script",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2023-11-18",
+        "Data de Término": "2023-11-20",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Testar o script com vídeos de exemplo",
+        "Responsável": "Equipe de QA",
+        "Data de Início": "2023-11-21",
+        "Data de Término": "2023-11-23",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Revisar e ajustar a lógica de extração",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2023-11-24",
+        "Data de Término": "2023-11-25",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Preparar documentação técnica",
+        "Responsável": "Gerente de Projeto",
+        "Data de Início": "2023-11-26",
+        "Data de Término": "2023-11-28",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Finalizar documentação do projeto",
+        "Responsável": "Gerente de Projeto",
+        "Data de Início": "2023-11-29",
+        "Data de Término": "2023-11-30",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Apresentar o projeto para as partes interessadas",
+        "Responsável": "Gerente de Projeto",
+        "Data de Início": "2023-11-30",
+        "Data de Término": "2023-11-30",
+        "Status": "Pendente"
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Automaçã de Descrição de Curso"
+}
+```
