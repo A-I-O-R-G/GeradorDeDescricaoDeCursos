@@ -1,0 +1,56 @@
+
+```json
+{
+  "cronograma": {
+    "Fase 1": {
+      "Nome": "Planejamento",
+      "Datas": {
+        "Início": "2023-11-01",
+        "Término": "2023-11-05"
+      },
+      "Atividades": [
+        "Definir requisitos do script",
+        "Identificar métodos de reconhecimento de fala",
+        "Elaborar cronograma detalhado"
+      ]
+    },
+    "Fase 2": {
+      "Nome": "Desenvolvimento",
+      "Datas": {
+        "Início": "2023-11-06",
+        "Término": "2023-11-20"
+      },
+      "Atividades": [
+        "Desenvolver o algoritmo de extração de informações",
+        "Implementar reconhecimento de fala ou análise de texto",
+        "Integrar componentes do script"
+      ]
+    },
+    "Fase 3": {
+      "Nome": "Testes e Ajustes",
+      "Datas": {
+        "Início": "2023-11-21",
+        "Término": "2023-11-25"
+      },
+      "Atividades": [
+        "Testar o script com vídeos de exemplo",
+        "Revisar e ajustar a lógica de extração",
+        "Preparar documentação técnica"
+      ]
+    },
+    "Fase 4": {
+      "Nome": "Entrega",
+      "Datas": {
+        "Início": "2023-11-26",
+        "Término": "2023-11-30"
+      },
+      "Atividades": [
+        "Finalizar documentação do projeto",
+        "Apresentar o projeto para as partes interessadas",
+        "Implementar feedback final"
+      ]
+    }
+  },
+  "nome_do_cronograma": "Cronograma do Projeto - Automaçã de Descrição de Curso"
+}
+```
