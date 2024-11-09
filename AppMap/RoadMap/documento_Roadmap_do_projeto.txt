@@ -1,0 +1,99 @@
+
+```json
+{
+  "Roadmap": {
+    "nome_do_Roadmap": "Roadmap do Projeto - Automação de Descrição de Curso",
+    "fases": [
+      {
+        "fase": "Planejamento",
+        "data_inicio": "2023-11-01",
+        "data_termino": "2023-11-05",
+        "atividades": [
+          {
+            "atividade": "Definir requisitos do script",
+            "responsavel": "Equipe de Análise",
+            "status": "Concluída"
+          },
+          {
+            "atividade": "Identificar métodos de reconhecimento de fala",
+            "responsavel": "Equipe Técnica",
+            "status": "Concluída"
+          },
+          {
+            "atividade": "Elaborar cronograma detalhado",
+            "responsavel": "Gerente de Projeto",
+            "status": "Concluída"
+          }
+        ]
+      },
+      {
+        "fase": "Desenvolvimento",
+        "data_inicio": "2023-11-06",
+        "data_termino": "2023-11-20",
+        "atividades": [
+          {
+            "atividade": "Desenvolver o algoritmo de extração de informações",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Em andamento"
+          },
+          {
+            "atividade": "Implementar reconhecimento de fala ou análise de texto",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Integrar componentes do script",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          }
+        ]
+      },
+      {
+        "fase": "Testes e Ajustes",
+        "data_inicio": "2023-11-21",
+        "data_termino": "2023-11-25",
+        "atividades": [
+          {
+            "atividade": "Testar o script com vídeos de exemplo",
+            "responsavel": "Equipe de QA",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Revisar e ajustar a lógica de extração",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Preparar documentação técnica",
+            "responsavel": "Gerente de Projeto",
+            "status": "Pendente"
+          }
+        ]
+      },
+      {
+        "fase": "Entrega",
+        "data_inicio": "2023-11-26",
+        "data_termino": "2023-11-30",
+        "atividades": [
+          {
+            "atividade": "Finalizar documentação do projeto",
+            "responsavel": "Gerente de Projeto",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Apresentar o projeto para as partes interessadas",
+            "responsavel": "Gerente de Projeto",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Implementar feedback final",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          }
+        ]
+      }
+    ],
+    "objetivo_do_projeto": "O usuário está solicitando um script que automatize o processo de criação de uma descrição de curso a partir da análise de uma videoaula. O objetivo do script é extrair informações chave do vídeo, incluindo: 1. Tópicos discutidos, 2. Objetivos de aprendizado, 3. Carga horária, 4. Pré-requisitos, e 5. Público-alvo. O script será projetado para interpretar o conteúdo apresentado, utilizando métodos de reconhecimento de fala ou análise de texto, e gerar um texto coeso e informativo que resuma o curso de maneira atraente e clara para potenciais alunos. Essa descrição poderá ser utilizada para divulgação em plataformas de ensino online e materiais de marketing."
+  }
+}
+```
