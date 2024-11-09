@@ -1,0 +1,4 @@
+
+{"doc_Pre_Projeto": "O usuário está solicitando um script que automatize o processo de criação de uma descrição de curso a partir da análise de uma videoaula. O objetivo do script é extrair informações chave do vídeo, incluindo: 1. Tópicos discutidos, 2. Objetivos de aprendizado, 3. Carga horária, 4. Pré-requisitos, e 5. Público-alvo. O script será projetado para interpretar o conteúdo apresentado, utilizando métodos de reconhecimento de fala ou análise de texto, e gerar um texto coeso e informativo que resuma o curso de maneira atraente e clara para potenciais alunos. Essa descrição poderá ser utilizada para divulgação em plataformas de ensino online e materiais de marketing."}
+
+{"name_doc_Pre_Projeto": "Documento Pre-Projeto - Automação de Descrição de Curso"}
