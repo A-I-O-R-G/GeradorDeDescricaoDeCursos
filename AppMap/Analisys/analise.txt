@@ -1,0 +1,46 @@
+
+```json
+{
+    "resumo": "O projeto visa desenvolver um script que automatize a criação de uma descrição de curso a partir da análise de videoaulas. O script deverá extrair informações-chave, incluindo tópicos discutidos, objetivos de aprendizado, carga horária, pré-requisitos e público-alvo, utilizando métodos de reconhecimento de fala ou análise de texto.",
+    "requisitos_funcionais": [
+        "O script deve extrair tópicos discutidos na videoaula.",
+        "O script deve identificar os objetivos de aprendizado do curso.",
+        "O script deve calcular a carga horária do curso.",
+        "O script deve listar os pré-requisitos do curso.",
+        "O script deve identificar o público-alvo da videoaula.",
+        "O script deve gerar uma descrição coesa e informativa do curso."
+    ],
+    "requisitos_nao_funcionais": [
+        "O sistema deve ter um desempenho eficiente na extração de dados.",
+        "O sistema deve garantir a segurança das informações extraídas.",
+        "A interface do usuário deve ser intuitiva e amigável.",
+        "O sistema deve ser escalável para suportar diferentes formatos de vídeo."
+    ],
+    "dependencias": [
+        "A atividade 'Implementar reconhecimento de fala ou análise de texto' depende da conclusão da atividade 'Desenvolver o algoritmo de extração de informações'.",
+        "A atividade 'Integrar componentes do script' depende da conclusão da atividade 'Implementar reconhecimento de fala ou análise de texto'.",
+        "A atividade 'Testar o script com vídeos de exemplo' depende da conclusão da atividade 'Integrar componentes do script'.",
+        "A atividade 'Revisar e ajustar a lógica de extração' depende da conclusão da atividade 'Testar o script com vídeos de exemplo'."
+    ],
+    "marcos": [
+        "Marco 1: Conclusão do planejamento e definição de requisitos em 2023-11-05.",
+        "Marco 2: Finalização do desenvolvimento do algoritmo de extração de informações até 2023-11-12.",
+        "Marco 3: Conclusão dos testes com vídeos até 2023-11-23.",
+        "Marco 4: Conclusão da revisão e ajustes até 2023-11-25.",
+        "Marco 5: Entrega final e apresentação do projeto em 2023-11-30."
+    ],
+    "recursos": [
+        "Recurso 1: Equipe de Análise para definição de requisitos.",
+        "Recurso 2: Equipe Técnica para identificação de métodos de reconhecimento de fala.",
+        "Recurso 3: Equipe de Desenvolvimento para implementação do algoritmo.",
+        "Recurso 4: Equipe de QA para testes de funcionalidade.",
+        "Recurso 5: Gerente de Projeto para coordenação e documentação."
+    ],
+    "riscos": [
+        "Risco 1: Atrasos na entrega devido à falta de recursos humanos qualificados.",
+        "Risco 2: Complexidade na implementação de métodos de reconhecimento de fala.",
+        "Risco 3: Alterações nos requisitos do projeto ao longo do desenvolvimento.",
+        "Risco 4: Atrasos na preparação da documentação técnica."
+    ]
+}
+```
